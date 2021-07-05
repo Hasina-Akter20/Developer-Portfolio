@@ -9,8 +9,9 @@ h1 {
   color: orange;
 }
 section {
+  height: 500px;
   display: flex;
-  margin-bottom: 120px;
+  margin-bottom: 150px;
 }
 .half-width {
   width: 50%;
@@ -80,6 +81,9 @@ h2 {
 .experience p {
   text-align: justify;
 }
-.copy{
+.copy {
   text-align: center;
+}
+.dif {
+  height: 80%;
 }
